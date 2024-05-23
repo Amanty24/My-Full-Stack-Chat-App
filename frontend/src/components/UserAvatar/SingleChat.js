@@ -12,9 +12,9 @@ import io from "socket.io-client";
 import { fetchChatsFunction } from '../../redux/actions/chat';
 
 
-// const EndPoint = "http://localhost:4000";
+const EndPoint = "http://localhost:4000";
 // const EndPoint = "https://new-backend-chat-app-full-stack.onrender.com";
-const EndPoint = "https://fullstackchatappbackend-production.up.railway.app";
+//const EndPoint = "https://fullstackchatappbackend-production.up.railway.app";
 
 let socket, selectedChatCompare;
 

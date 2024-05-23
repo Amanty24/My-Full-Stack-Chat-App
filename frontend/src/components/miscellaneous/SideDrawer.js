@@ -113,7 +113,7 @@ const SideDrawer = () => {
                     </Button>
                 </Tooltip>
                 <Text fontSize={["16px", "22px"]} fontFamily="Work sans">
-                    Sachin Chat App
+                     Chat App
                 </Text>
                 <div style={{ display: "flex" }}>
                     <Menu>
